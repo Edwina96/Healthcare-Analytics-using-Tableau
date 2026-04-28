@@ -9,9 +9,7 @@ View the Live Dashboard Here:  https://edwina96.github.io/Healthcare-Analytics-u
 This project analyzes Diabetic and Non - diabetic patients to improve healthcare delivery. The goal is to provide clinical staff and administrators with actionable insights into patient care quality and operational efficiency.
 
 ### Key Clinical Insights:
-*   **Patient Outcomes:** [e.g., Identified a 12% increase in readmission rates for diabetic patients over age 65.]
-*   **Operational Efficiency:** [e.g., Average Emergency Department (ED) wait times peaked at 4:00 PM on Mondays, suggesting a need for increased staffing.]
-*   **Resource Management:** [e.g., Visualized ICU bed occupancy trends to optimize elective surgery scheduling.]
+*   Patient Outcomes - Diabetic and Non- Diabetic patients based on age, blood pressure and BMI of the patients
 
 ---
 
@@ -22,6 +20,8 @@ Data Stack & Methodology
 ---
 Dashboard Preview
 <img width="2778" height="1398" alt="Healthcare Summary" src="https://github.com/user-attachments/assets/78361220-0ec2-445f-aa98-bcab85cad77e" />
+
+<img width="2308" height="1398" alt="Healthcare" src="https://github.com/user-attachments/assets/4c4e91cf-91f0-4579-86b7-3811b9c9c209" />
 
 ---
 
